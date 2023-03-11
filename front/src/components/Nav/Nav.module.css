@@ -1,0 +1,69 @@
+.fondo{
+  width: 97%;
+  height: 12%;
+  position:fixed;
+  background-color: rgb(76, 14, 106);
+  box-shadow: 7px 10px 46px;
+  border-radius: 3rem;
+}
+.favorites{
+ margin: -9%;
+ padding: 1%;
+ background-color: blueviolet;
+ color:rgb(57, 12, 99);
+ letter-spacing: 2px;
+ font-size: 18px;
+ border-radius: 2rem;
+ border:none;
+ box-shadow: 7px 10px 22px;
+ /* margin-right: 20%; */
+}
+
+.about{
+ margin: -10%;
+ padding: 1%;
+ background-color: blueviolet;
+ color:rgb(57, 12, 99);
+ letter-spacing: 2px;
+ font-size: 18px;
+ border-radius: 2rem;
+ border:none;
+ box-shadow: 7px 10px 22px;
+ /* margin-right: 10%; */
+}
+
+.home{
+    margin: -5%;
+    padding: 1%;
+    background-color: blueviolet;
+    color:rgb(57, 12, 99);
+    letter-spacing: 2px;
+    font-size: 18px;
+    border-radius: 2rem;
+    border:none;
+    box-shadow: 7px 10px 22px;
+    margin-right: 6%;
+}
+
+.poslog{
+ margin-top: -3.3%;
+ margin-left: 86%;
+}
+
+.logout{
+ margin-top: -7;
+ padding: 4.5%;
+ background-color: blueviolet;
+ color:rgb(57, 12, 99);
+ letter-spacing: 4px;
+ font-size: 18px;
+ border-radius: 2rem;
+ border:none;
+ box-shadow: 7px 10px 22px;
+}
+
+.logout:hover{
+    background-color: #7a117ae4;
+    color: rgb(209, 209, 205);
+}
+

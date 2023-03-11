@@ -1,0 +1,58 @@
+.fondo{
+ margin: 7%;
+ margin-left: 35%;
+ }
+
+ .contenedor{
+ padding: 5%;
+ background-color: blueviolet;
+ width: min(15rem);
+ height: 18rem;
+ border-radius: 1rem;
+ box-shadow: 10px 13px 37px;
+ }
+
+.etiqueta{
+ color:rgb(30, 30, 26);
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 1.3rem;
+ font-weight: bold;
+ display: block;
+ margin: 2%;
+}
+
+.input{
+    margin-top: 2%;
+    background-color: blueviolet;
+    width: 100%;
+    border-radius: 2rem;
+    height: 2rem;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1rem;
+    outline: none;
+    border-bottom: solid 1px ; 
+    font-style: italic; 
+}
+
+.input::placeholder{
+    color: beige;
+}
+
+.boton{
+ margin: 4%;
+ padding: 6.5%;
+ background-color: blueviolet;
+ color:rgb(57, 12, 99);
+ letter-spacing: 5px;
+ font-size: 18px;
+ border-radius: 2rem;
+ border:none;
+ box-shadow: 7px 10px 22px;
+}
+
+.boton:hover{
+    background:rgb(244, 195, 244);
+    
+}

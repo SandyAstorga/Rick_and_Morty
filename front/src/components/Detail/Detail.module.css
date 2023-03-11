@@ -1,0 +1,30 @@
+.espacio{
+    margin-top: 13%;
+    margin-left: -19%;
+}
+.letras{
+    font-size: medium;
+    font-family:cursive;
+}
+
+.imagen{
+    margin-left: 42%;
+    margin-top: -52%;
+    border-radius: 15%;
+}
+
+.gohome{
+ padding: 1%;
+ background-color: blueviolet;
+ color:rgb(57, 12, 99);
+ letter-spacing: 5px;
+ font-size: 18px;
+ border-radius: 2rem;
+ border:none;
+ box-shadow: 7px 10px 22px;
+}
+
+.gohome:hover{
+    background-color: #7a117ae4;
+    color: rgb(209, 209, 205);
+}
