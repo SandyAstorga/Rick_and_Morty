@@ -2,3 +2,5 @@ Una disculpa por no terminar al 100 el proyecto
 
 Pero mas adelante lo retomare para que sea parte de mi Portafolio !!
 
+Se renombro la rama a Main 
+
